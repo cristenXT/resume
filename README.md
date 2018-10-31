@@ -1,2 +1,2 @@
 # resume
-Wellcome My Personal Profile
+Welcome My Personal Profile
